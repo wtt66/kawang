@@ -1,0 +1,9 @@
+.idea/
+auth.json
+config.toml
+.env
+.env.*
+*.log
+
+admin/node_modules/
+admin/dist/
